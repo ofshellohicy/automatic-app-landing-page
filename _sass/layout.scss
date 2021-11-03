@@ -15,6 +15,7 @@
 
 }
 
+
 .headerBackground {
 	height: 115px;
 	background-color: rgba($header-color, $header-transparency);
@@ -613,13 +614,23 @@ footer {
 	justify-content: center;
 }
 
-.footerText, .copyright {
+.footerText{
 	color: $footer-text-color;
 	display: block;
 	line-height: 1.5;
 	width: 100%;
 	text-align: center;
 	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.copyright {
+	font-size: 14px;
+	color: $footer-text-color;
+	display: block;
+	line-height: 1.5;
+	width: 100%;
+	text-align: center;
 	padding-bottom: 70px;
 }
 
@@ -633,7 +644,8 @@ footer {
 .footerLinks {
 	display: flex;
 	text-align: center;
-	padding-bottom: 70px;
+	padding-top: 70px;
+	padding-bottom: 20px;
 }
 
 .footerLinks a {
