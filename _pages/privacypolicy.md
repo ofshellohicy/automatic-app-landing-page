@@ -1,60 +1,68 @@
 ---
 layout: page
-title: Privacy Policy
+title: 隐私政策
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+**更新日期**  
+2021年10月1日
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+# 隐私政策
+SHOW CARD（APP）尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的 服务，SHOW CARD会按照本隐私权政策的规定使用和披露您的个人信息。但SHOW CARD将以高 度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下 ，SHOW CARD不会将这些信息对外披露或向第三方提供。SHOW CARD会不时更新本隐私权政策 。 您在同意SHOW CARD服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私 权政策属于SHOW CARD服务使用协议不可分割的一部分。
+	由北京潮狩互娱科技有限公司开发，任何问题，请联系ofshellohicy@gmail.com
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+	1. 适用范围
 
-<br>
+	a) 在您注册SHOW CARD帐号时，您根据SHOW CARD要求提供的个人注册信息；
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+	b) 在您使用SHOW CARD网络服务，或访问SHOW CARD平台网页时，SHOW CARD自动接收并记 录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访 问日期和时间、软硬件特征信息及您需求的网页记录等数据；
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+	c) SHOW CARD通过合法途径从商业伙伴处取得的用户个人数据。
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+	您了解并同意，以下信息不适用本隐私权政策：
 
-<br>
+	a) 您在使用SHOW CARD平台提供的搜索服务时输入的关键字信息；
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+	b) SHOW CARD收集到的您在SHOW CARD发布的有关信息数据，包括但不限于参与活动、成交 信息及评价详情；
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+	c) 违反法律规定或违反SHOW CARD规则行为及SHOW CARD已对您采取的措施。
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+	2. 信息使用
 
-<br>
+	a) SHOW CARD不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先 得到您的许可，或该第三方和SHOW CARD（含SHOW CARD关联公司）单独或共同为您提供服务 ，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+	b) SHOW CARD亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。 任何SHOW CARD平台用户如从事上述活动，一经发现，SHOW CARD有权立即终止与该用户的服 务协议。
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+	c) 为服务用户的目的，SHOW CARD可能通过使用您的个人信息，向您提供您感兴趣的信息，包 括但不限于向您发出产品和服务信息，或者与SHOW CARD合作伙伴共享信息以便他们向您发送 有关其产品和服务的信息（后者需要您的事先同意）。
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+	3. 信息披露 在如下情况下，SHOW CARD将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息 ：
 
-<br>
+	a) 经您事先同意，向第三方披露；
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+	b) 为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
 
-<br>
+	c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+	d) 如您出现违反中国有关法律、法规或者SHOW CARD服务协议或相关规则的情况，需要向第三 方披露；
+
+	e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方 处理可能的权利纠纷；
+
+	f) 在SHOW CARD平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出 信息披露请求的，SHOW CARD有权决定向该用户提供其交易对方的联络方式等必要信息，以促 成交易的完成或纠纷的解决。
+
+	g) 其它SHOW CARD根据法律、法规或者网站政策认为合适的披露。
+
+	4. 信息存储和交换 SHOW CARD收集的有关您的信息和资料将保存在SHOW CARD及（或）其关联公司的服务器上， 这些信息和资料可能传送至您所在国家、地区或SHOW CARD收集信息和资料所在地的境外并在 境外被访问、存储和展示。
+
+	5. Cookie的使用
+
+	a) 在您未拒绝接受cookies的情况下，SHOW CARD会在您的计算机上设定或取用cookies ，以便您能登录或使用依赖于cookies的SHOW CARD平台服务或功能。SHOW CARD使用cookies 可为您提供更加周到的个性化服务，包括推广服务。
+
+	b) 您有权选择接受或拒绝接受cookies。 您可以通过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies，则您可能 无法登录或使用依赖于cookies的SHOW CARD网络服务或功能。
+
+	c) 通过SHOW CARD所设cookies所取得的有关信息，将适用本政策。
+
+	6. 信息安全
+
+	a) SHOW CARD帐号均有安全保护功能，请妥善保管您的用户名及密码信息。SHOW CARD将通 过对用户密码进行加密等安全措施确保您的信息不丢失，不被滥用和变造。尽管有前述安全措施 ，但同时也请您注意在信息网络上不存在“完善的安全措施”。
+
+	b) 在使用SHOW CARD网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对方 披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情 形下向他人提供。如您发现自己的个人信息泄密，尤其是SHOW CARD用户名及密码发生泄露， 请您立即联络SHOW CARD客服，以便SHOW CARD采取相应措施。
